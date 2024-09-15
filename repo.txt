@@ -1,3 +1,1 @@
-$pa=$env:appdata + '\log.txt'
-$ti = Get-Date
-ac $pa $ti
+mspaint.exe
