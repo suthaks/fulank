@@ -1,1 +1,2 @@
-mspaint.exe
+cmd /c start /min powershell start-process powershell {mspaint.exe;calc.exe} -windowstyle hidden
+
